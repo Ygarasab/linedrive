@@ -1,0 +1,5 @@
+credentials.json
+.idea
+token.pickle
+
+**/__pycache__
